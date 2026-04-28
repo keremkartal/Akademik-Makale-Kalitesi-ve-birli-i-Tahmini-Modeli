@@ -1,0 +1,65 @@
+[17:34:16] Başlangıç. Workers=5, checkpoint_every=200
+[17:34:17]   train: 21303 benzersiz DOI (train.csv)
+[17:34:17]   test: 807 benzersiz DOI (test.csv)
+[17:34:17] Toplam birleşik benzersiz DOI: 22110
+[17:34:17]   Daha önce başarıyla işlenmiş : 0
+[17:34:17]   Daha önce başarısız işaretli : 0 (retry için istersen failed_dois.csv'yi sil)
+[17:34:17]   Bu çalıştırmada işlenecek    : 22110
+[19:23:09] Başlangıç. Workers=5, checkpoint_every=200
+[19:23:10]   train: 21303 benzersiz DOI (train.csv)
+[19:23:10]   test: 807 benzersiz DOI (test.csv)
+[19:23:10] Toplam birleşik benzersiz DOI: 22110
+[19:23:10]   Daha önce başarıyla işlenmiş : 9792
+[19:23:10]   Daha önce başarısız işaretli : 8 (retry için istersen failed_dois.csv'yi sil)
+[19:23:10]   Bu çalıştırmada işlenecek    : 12310
+[19:24:11] Başlangıç. Workers=5, checkpoint_every=200
+[19:24:12]   train: 21303 benzersiz DOI (train.csv)
+[19:24:12]   test: 807 benzersiz DOI (test.csv)
+[19:24:12] Toplam birleşik benzersiz DOI: 22110
+[19:24:12]   Daha önce başarıyla işlenmiş : 9792
+[19:24:12]   Daha önce başarısız işaretli : 8 (retry için istersen failed_dois.csv'yi sil)
+[19:24:12]   Bu çalıştırmada işlenecek    : 12310
+[19:30:14] Başlangıç. Workers=5, checkpoint_every=200
+[19:30:14]   train: 21303 benzersiz DOI (train.csv)
+[19:30:14]   test: 807 benzersiz DOI (test.csv)
+[19:30:14] Toplam birleşik benzersiz DOI: 22110
+[19:30:14]   Daha önce başarıyla işlenmiş : 9792
+[19:30:14]   Daha önce başarısız işaretli : 8 (retry için istersen failed_dois.csv'yi sil)
+[19:30:14]   Bu çalıştırmada işlenecek    : 12310
+[19:52:59] Başlangıç. Workers=5, checkpoint_every=200
+[19:53:00]   train: 21303 benzersiz DOI (train.csv)
+[19:53:00]   test: 807 benzersiz DOI (test.csv)
+[19:53:00] Toplam birleşik benzersiz DOI: 22110
+[19:53:00]   Daha önce başarıyla işlenmiş : 9792
+[19:53:00]   Daha önce başarısız işaretli : 8 (retry için istersen failed_dois.csv'yi sil)
+[19:53:00]   Bu çalıştırmada işlenecek    : 12310
+[11:13:55] Başlangıç. Workers=5, checkpoint_every=200
+[11:13:56]   train: 21303 benzersiz DOI (train.csv)
+[11:13:56]   test: 807 benzersiz DOI (test.csv)
+[11:13:56] Toplam birleşik benzersiz DOI: 22110
+[11:13:57]   Daha önce başarıyla işlenmiş : 9792
+[11:13:57]   Daha önce başarısız işaretli : 8 (retry için istersen failed_dois.csv'yi sil)
+[11:13:57]   Bu çalıştırmada işlenecek    : 12310
+[11:42:26] Başlangıç. Workers=5, checkpoint_every=200
+[11:42:27]   train: 21303 benzersiz DOI (train.csv)
+[11:42:27]   test: 807 benzersiz DOI (test.csv)
+[11:42:27] Toplam birleşik benzersiz DOI: 22110
+[11:42:28]   Daha önce başarıyla işlenmiş : 19696
+[11:42:28]   Daha önce başarısız işaretli : 104 (retry için istersen failed_dois.csv'yi sil)
+[11:42:28]   Bu çalıştırmada işlenecek    : 2310
+[11:44:39] Başlangıç. Workers=5, checkpoint_every=200
+[11:44:39]   train: 21303 benzersiz DOI (train.csv)
+[11:44:39]   test: 807 benzersiz DOI (test.csv)
+[11:44:39] Toplam birleşik benzersiz DOI: 22110
+[11:44:40]   Daha önce başarıyla işlenmiş : 19696
+[11:44:40]   Daha önce başarısız işaretli : 104 (retry için istersen failed_dois.csv'yi sil)
+[11:44:40]   Bu çalıştırmada işlenecek    : 2310
+[11:51:39] 
+============================================================
+[11:51:39] TAMAMLANDI
+[11:51:39]   OpenAlex başarılı : 2287
+[11:51:39]   Crossref fallback : 9
+[11:51:39]   Başarısız         : 14
+[11:51:39]   Toplam süre       : 7.0 dakika  (0.18 s/DOI)
+[11:51:39]   Ana çıktı         : C:\Users\Kerem\Desktop\hakanproje\enriched\enriched.parquet
+[11:51:39]   Başarısızlar      : C:\Users\Kerem\Desktop\hakanproje\enriched\failed_dois.csv
